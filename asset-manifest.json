@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ulbitv_react_course/static/css/main.34e07082.css",
+    "main.js": "/ulbitv_react_course/static/js/main.5fc67d4d.js",
+    "index.html": "/ulbitv_react_course/index.html",
+    "main.34e07082.css.map": "/ulbitv_react_course/static/css/main.34e07082.css.map",
+    "main.5fc67d4d.js.map": "/ulbitv_react_course/static/js/main.5fc67d4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34e07082.css",
+    "static/js/main.5fc67d4d.js"
+  ]
+}
